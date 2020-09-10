@@ -5,19 +5,19 @@ Learn and practice react from udemy course
 
 For function component (without import component from react)
 Example:
-```
+`
 import React from 'react';
 
 const App = () => {
   return <div>App</div>;
 };
 
-```
+`
 <br />
 <br />
 For class component (with import component from react)
 Example:
-```
+`
 import React, { Component } from 'react';
 
 class App extends Component {
@@ -25,7 +25,7 @@ class App extends Component {
     return <div>App</div>;
   }
 }
-```
+`
 <br />
 <br />
 - Learn to reuse function component
